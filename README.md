@@ -8,4 +8,8 @@ This python script being run as an android app. It performs the following tasks 
 
 The app has a poor UI but it will be improved in the future.
 
+The script is located as follows :
+
+	/BatteryMonitorPython/apk/res/raw/script.py
+
 
